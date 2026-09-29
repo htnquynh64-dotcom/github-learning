@@ -1,0 +1,4 @@
+i learned about:
+1. Repository
+2. Commit
+3. README 

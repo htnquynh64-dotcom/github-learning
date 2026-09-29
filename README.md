@@ -1,2 +1,4 @@
 # github-learning
-My GitHub repository
+My GitHub learning journey
+Iam learning how to use Github
+
